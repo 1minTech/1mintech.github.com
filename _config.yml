@@ -1,10 +1,10 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: http://1mintech.github.io/
+baseurl: /30sec/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: 半分音乐
+email: bd@1minstudio.com
+description: "好的产品需要好的音乐，相得益彰，半分音乐致力于解决产品形态中最玄幻的声音部分，一切声音相关的解决方案，片头音乐，音效制作，帮助创业公司脱颖而出"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
